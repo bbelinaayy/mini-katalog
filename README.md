@@ -21,16 +21,16 @@ flutter run
 #### Ekran Görüntüleri
 
 Ana Ekran:  
-![Ana Ekran](screenshots/anaekran.png)
+![Ana Ekran](screenshot/anaekran.png)
 
 Bos Sepet:  
-![Bos Sepet](screenshots/bossepet.png)
+![Bos Sepet](screenshot/bossepet.png)
 
 Arama Sonuclari:  
-![Arama](screenshots/search.png)
+![Arama](screenshot/search.png)
 
 Sepete Ekleme:  
-![Sepete Ekleme](screenshots/sepeteekleme.png)
+![Sepete Ekleme](screenshot/sepeteekleme.png)
 
 Urun Detayi:  
-![Urun Detayi](screenshots/urun.png)
+![Urun Detayi](screenshot/urun.png)
