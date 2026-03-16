@@ -1,17 +1,16 @@
-# katalog
+# Mini Katalog
 
-A new Flutter project.
+Açıklama:  
+Bu proje Flutter kullanılarak geliştirilmiş bir ürün katalog ve alışveriş uygulamasıdır.  
+Kullanıcı ürünleri görebilir, sepete ekleyebilir ve checkout yapabilir.
 
-## Getting Started
+## Flutter Sürümü
 
-This project is a starting point for a Flutter application.
+Flutter 3.x
+## Çalıştırma Adımları
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/bbelinaayy/mini-katalog.git
+cd mini-katalog
+flutter pub get
+flutter devices
+flutter run
