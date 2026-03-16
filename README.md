@@ -21,7 +21,7 @@ flutter run
 #### Ekran Görüntüleri
 
 Ana Ekran:  
-![Ana Ekran](screenshots/anaekran(2).png)
+![Ana Ekran](screenshots/anaekran.png)
 
 Bos Sepet:  
 ![Bos Sepet](screenshots/bossepet.png)
@@ -33,4 +33,4 @@ Sepete Ekleme:
 ![Sepete Ekleme](screenshots/sepeteekleme.png)
 
 Urun Detayi:  
-![Urun Detayi](screenshots/urun.png) oldu mu 
+![Urun Detayi](screenshots/urun.png)
